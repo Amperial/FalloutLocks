@@ -1,0 +1,9 @@
+name: FalloutLocks
+version: 0.0
+description: Locking system for the Fallout Bukkit plugin.
+author: ampayne2
+main: ninja.amp.falloutlocks.FalloutLocks
+depend: [Fallout]
+commands:
+  falloutlocks:
+    aliases: [ falloutlock, folocks, folock, fol ]
