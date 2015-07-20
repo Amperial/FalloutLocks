@@ -24,7 +24,7 @@ import ninja.amp.fallout.character.CharacterManager;
 import ninja.amp.fallout.command.CommandController;
 import ninja.amp.fallout.command.CommandGroup;
 import ninja.amp.fallout.command.commands.character.knowledge.Information;
-import ninja.amp.fallout.command.commands.faction.FactionManager;
+import ninja.amp.fallout.faction.FactionManager;
 import ninja.amp.fallout.command.commands.roll.RollManager;
 import ninja.amp.fallout.config.ConfigManager;
 import ninja.amp.fallout.message.Messenger;
