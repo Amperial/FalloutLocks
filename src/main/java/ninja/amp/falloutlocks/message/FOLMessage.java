@@ -26,7 +26,7 @@ import ninja.amp.fallout.message.Message;
  * @author Austin Payne
  */
 public enum FOLMessage implements Message {
-    RELOAD("Reload", "Reloaded %s.");
+    ;
 
     private final String path;
     private final String defaultMessage;

@@ -1,5 +1,5 @@
 name: FalloutLocks
-version: 0.0
+version: 2.1
 description: Locking system for the Fallout Bukkit plugin.
 author: ampayne2
 main: ninja.amp.falloutlocks.FalloutLocks

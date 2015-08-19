@@ -41,7 +41,7 @@ public class AboutCommand extends Command {
 
     public AboutCommand(FalloutLocks plugin) {
         super(plugin, "");
-        setDescription("Lists some information about fallout locks");
+        setDescription("Lists some information about fallout locks.");
         setCommandUsage("/fol");
         setPermission(new Permission("falloutlocks.about", PermissionDefault.TRUE));
         setPlayerOnly(false);
